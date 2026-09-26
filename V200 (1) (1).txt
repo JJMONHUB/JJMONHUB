@@ -421,7 +421,7 @@ for index3, value5 in ipairs(val4) do
   uiCorner10.Parent = textButton3
 
   local uiStroke7 = Instance.new("UIStroke")
-  uiStroke7.Color = Color3.fromRGB(180, 150, 0) -- yellow
+  uiStroke7.Color = Color3.fromRGB(255, 255, 255) -- yellow
   uiStroke7.Thickness = 1
   uiStroke7.Parent = textButton3
 
