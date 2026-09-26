@@ -30,7 +30,7 @@ local function createFrame(text)
   uiCorner.Parent = frame
 
   local uiStroke = Instance.new("UIStroke")
-  uiStroke.Color = Color3.fromRGB(200, 180, 0) -- yellow
+  uiStroke.Color = Color3.fromRGB(255, 255, 255) -- yellow
   uiStroke.Thickness = 1
   uiStroke.Parent = frame
 
@@ -76,7 +76,7 @@ local function createFrame2()
   uiCorner2.Parent = promptFrame
 
   local uiStroke2 = Instance.new("UIStroke")
-  uiStroke2.Color = Color3.fromRGB(200, 180, 0) -- yellow
+  uiStroke2.Color = Color3.fromRGB(255, 255, 255) -- yellow
   uiStroke2.Thickness = 1.5
   uiStroke2.Parent = promptFrame
 
