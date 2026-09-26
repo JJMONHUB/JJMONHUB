@@ -39,7 +39,7 @@ local function createFrame(text)
   textLabel.Position = UDim2.new(0, 6, 0, 0)
   textLabel.BackgroundTransparency = 1
   textLabel.Text = text
-  textLabel.TextColor3 = Color3.fromRGB(240, 240, 240)
+  textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
   textLabel.TextSize = 9
   textLabel.Font = Enum.Font.GothamBold
   textLabel.TextXAlignment = Enum.TextXAlignment.Left
