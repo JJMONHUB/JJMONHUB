@@ -556,6 +556,7 @@ local function helper2(val8)
       textLabel5.Text = "JJMONHUB | V3.0"
       textLabel5.TextSize = 12
       textLabel5.Font = Enum.Font.GothamBold
+      textLabe15.TextColor3 = Color3.fromRGB(255, 255, 255)
       textLabel5.Parent = sourcesHubTag
 
       val9 = 0
